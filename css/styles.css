@@ -1,14 +1,16 @@
 em {
   font-weight: bold;
-  color: orange
+  color: orange;
 }
 
 body {
-  color: #5a5a5a
+  color: #5a5a5a;
 }
 
 .important {
-  color: black
+  color: black;
+  background-color: #e6e6e6;
+  font-weight: 500;
 }
 .img-float{
   float: right;
@@ -19,9 +21,9 @@ body {
 }
 
 .jumbotron h1 {
-  color: white
+  color: white;
 }
 
 .jumbotron p {
-  color: white
+  color: white;
 }

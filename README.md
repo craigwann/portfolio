@@ -4,10 +4,9 @@ First independent project (Code Review).
 
 ## Getting Started
 
-Option 1: Download the repository from https://github.com/craigwann/portfolio by selecting the green "Clone or download" button 
+Option 1: Download the repository from https://github.com/craigwann/portfolio by selecting the green "Clone or download" button and select the "Download ZIP" option. Navigate to the .ZIP file and double-click (uncompress). Within the directory open the index.html file with your favorite browser application.
 
-
-
+Option 2: select this link --> 
 ## Built With
 
 * [Bootstrap](https://getbootstrap.com/docs/3.3/) - Bootstrap
