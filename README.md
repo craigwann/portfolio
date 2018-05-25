@@ -9,27 +9,21 @@ Option 1: Download the repository from https://github.com/craigwann/portfolio by
 Option 2: select this link --> https://craigwann.github.io/portfolio/
 ## Built With
 
-* [Bootstrap](https://getbootstrap.com/docs/3.3/) - Bootstrap
+* [Bootstrap](https://getbootstrap.com/docs/3.3/) - Bootstrap version 3.3.7
 * [Atom](https://atom.io/) - Atom editor
 
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
 * **Craig Wann** - *Initial work* - [craigwann](https://github.com/craigwann)
 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Copyright (c) 2018. This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Adobe Creative Suite software
+* Bob "Happy Trees" Ross
