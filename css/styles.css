@@ -1,8 +1,27 @@
-h2 {
-  text-align: center;
-}
-
 em {
   font-weight: bold;
   color: orange
+}
+
+body {
+  color: #5a5a5a
+}
+
+.important {
+  color: black
+}
+.img-float{
+  float: right;
+}
+
+.jumbotron {
+  background-color: #898989!important;
+}
+
+.jumbotron h1 {
+  color: white
+}
+
+.jumbotron p {
+  color: white
 }
